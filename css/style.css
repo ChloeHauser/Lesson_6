@@ -148,6 +148,7 @@ body {
     list-style-type:none;
 }
 #latest-work > li {
+    padding: 15;
     padding-top: 15px;
     padding-bottom: 15px;
     width: 100%;
@@ -191,6 +192,18 @@ footer > h1 {
     margin:0;
     transform: translateY(50%);
 }
-
+/*bootstrap related*/
+.container-fluid{
+    padding:0;
+}
+.img-modal {
+    text-align: center;
+}
+.img-modal {
+    text-align: center;
+}
+#favorite-sites > .row > .col-md-4 > img {
+    margin:0 auto;
+}
 
 
